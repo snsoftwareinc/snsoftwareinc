@@ -9,9 +9,9 @@ class About extends Component {
            
             <h3>Software Development Company <u>Cloud Design & Development</u> <u>Security Consulting</u></h3>
             <br></br>
-            <p> Coming Soon Development PODS
+            <p> Coming Soon Development - PODS
             </p>
-            
+            <p> Coming Soon Development - PODS</p>
             </div>
             )
         }

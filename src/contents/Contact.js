@@ -7,6 +7,7 @@ class Contact extends Component {
             <h1 className="subtopic">Contact Us</h1>
             <h3>Email  :  snsoftwareinc@gmail.com</h3>
             <h3>Instagram   :   @snsoftwareinc</h3>
+            <h3>Facebook   :   @snsoftwareinc</h3>
             <Social />
             </div>
             )

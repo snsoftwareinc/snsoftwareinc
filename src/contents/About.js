@@ -11,7 +11,7 @@ class About extends Component {
             <br></br>
             <p> Coming Soon Development - PODS
             </p>
-            <p> Coming Soon Development - PODS - Test</p>
+            <p> Coming Soon Development - PODS - Test </p>
             </div>
             )
         }
